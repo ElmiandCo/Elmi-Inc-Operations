@@ -1,0 +1,1 @@
+See logo.svg for the deployable logo. This file intentionally contains no secrets or credentials.
