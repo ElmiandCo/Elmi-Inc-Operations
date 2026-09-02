@@ -1,0 +1,1 @@
+The production logo asset is logo.svg. logo.png is intentionally omitted from this text-only GitHub connector upload; the app currently references logo.png and should be switched to logo.svg before deployment.
