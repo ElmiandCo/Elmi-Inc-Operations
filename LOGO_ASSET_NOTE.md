@@ -1,0 +1,1 @@
+Elmi Inc. logo assets: logo.svg is the canonical vector asset. The app UI currently references logo.png; replace that reference with logo.svg when moving to the final deployment if the binary PNG is not present.
