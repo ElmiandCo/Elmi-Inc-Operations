@@ -1,0 +1,1 @@
+Binary logo payload is represented by logo.svg in this repository.
